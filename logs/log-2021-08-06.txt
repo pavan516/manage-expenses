@@ -1,0 +1,611 @@
+INFO - 2021-08-06 09:28:21 --> Config Class Initialized
+INFO - 2021-08-06 09:28:21 --> Hooks Class Initialized
+DEBUG - 2021-08-06 09:28:21 --> UTF-8 Support Enabled
+INFO - 2021-08-06 09:28:21 --> Utf8 Class Initialized
+INFO - 2021-08-06 09:28:21 --> URI Class Initialized
+INFO - 2021-08-06 09:28:21 --> Router Class Initialized
+INFO - 2021-08-06 09:28:21 --> Output Class Initialized
+INFO - 2021-08-06 09:28:21 --> Security Class Initialized
+DEBUG - 2021-08-06 09:28:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-06 09:28:21 --> Input Class Initialized
+INFO - 2021-08-06 09:28:21 --> Language Class Initialized
+INFO - 2021-08-06 09:28:21 --> Loader Class Initialized
+INFO - 2021-08-06 09:28:21 --> Helper loaded: url_helper
+INFO - 2021-08-06 09:28:21 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-06 09:28:21 --> Database Driver Class Initialized
+INFO - 2021-08-06 09:28:21 --> Email Class Initialized
+INFO - 2021-08-06 09:28:21 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-06 09:28:21 --> Controller Class Initialized
+INFO - 2021-08-06 09:28:21 --> Model Class Initialized
+INFO - 2021-08-06 09:28:21 --> Model Class Initialized
+INFO - 2021-08-06 09:28:21 --> Model Class Initialized
+INFO - 2021-08-06 09:28:21 --> File loaded: C:\xampp\htdocs\allprojects\pavan\manage_expenses\application\views\personal.php
+INFO - 2021-08-06 09:28:21 --> Final output sent to browser
+DEBUG - 2021-08-06 09:28:21 --> Total execution time: 0.1046
+INFO - 2021-08-06 09:28:24 --> Config Class Initialized
+INFO - 2021-08-06 09:28:24 --> Hooks Class Initialized
+INFO - 2021-08-06 09:28:24 --> Config Class Initialized
+INFO - 2021-08-06 09:28:24 --> Hooks Class Initialized
+DEBUG - 2021-08-06 09:28:24 --> UTF-8 Support Enabled
+INFO - 2021-08-06 09:28:24 --> Utf8 Class Initialized
+DEBUG - 2021-08-06 09:28:24 --> UTF-8 Support Enabled
+INFO - 2021-08-06 09:28:24 --> Utf8 Class Initialized
+INFO - 2021-08-06 09:28:24 --> URI Class Initialized
+INFO - 2021-08-06 09:28:24 --> URI Class Initialized
+INFO - 2021-08-06 09:28:24 --> Router Class Initialized
+INFO - 2021-08-06 09:28:24 --> Router Class Initialized
+INFO - 2021-08-06 09:28:24 --> Output Class Initialized
+INFO - 2021-08-06 09:28:24 --> Security Class Initialized
+INFO - 2021-08-06 09:28:24 --> Output Class Initialized
+DEBUG - 2021-08-06 09:28:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-06 09:28:24 --> Input Class Initialized
+INFO - 2021-08-06 09:28:24 --> Security Class Initialized
+INFO - 2021-08-06 09:28:24 --> Language Class Initialized
+DEBUG - 2021-08-06 09:28:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-06 09:28:24 --> Input Class Initialized
+INFO - 2021-08-06 09:28:24 --> Language Class Initialized
+INFO - 2021-08-06 09:28:24 --> Loader Class Initialized
+INFO - 2021-08-06 09:28:24 --> Helper loaded: url_helper
+INFO - 2021-08-06 09:28:24 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-06 09:28:24 --> Loader Class Initialized
+INFO - 2021-08-06 09:28:24 --> Helper loaded: url_helper
+INFO - 2021-08-06 09:28:24 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-06 09:28:24 --> Database Driver Class Initialized
+INFO - 2021-08-06 09:28:24 --> Database Driver Class Initialized
+INFO - 2021-08-06 09:28:24 --> Email Class Initialized
+INFO - 2021-08-06 09:28:24 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-06 09:28:24 --> Controller Class Initialized
+INFO - 2021-08-06 09:28:24 --> Model Class Initialized
+INFO - 2021-08-06 09:28:24 --> Model Class Initialized
+INFO - 2021-08-06 09:28:24 --> Model Class Initialized
+INFO - 2021-08-06 09:28:24 --> Email Class Initialized
+DEBUG - 2021-08-06 09:28:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:24 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-08-06 09:28:24 --> File loaded: C:\xampp\htdocs\allprojects\pavan\manage_expenses\application\views\personal/monthly.php
+INFO - 2021-08-06 09:28:24 --> Final output sent to browser
+DEBUG - 2021-08-06 09:28:24 --> Total execution time: 0.0993
+INFO - 2021-08-06 09:28:24 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-06 09:28:24 --> Controller Class Initialized
+INFO - 2021-08-06 09:28:24 --> Model Class Initialized
+INFO - 2021-08-06 09:28:24 --> Model Class Initialized
+INFO - 2021-08-06 09:28:24 --> Model Class Initialized
+INFO - 2021-08-06 09:28:58 --> Config Class Initialized
+INFO - 2021-08-06 09:28:58 --> Hooks Class Initialized
+DEBUG - 2021-08-06 09:28:58 --> UTF-8 Support Enabled
+INFO - 2021-08-06 09:28:58 --> Utf8 Class Initialized
+INFO - 2021-08-06 09:28:58 --> URI Class Initialized
+INFO - 2021-08-06 09:28:58 --> Router Class Initialized
+INFO - 2021-08-06 09:28:58 --> Output Class Initialized
+INFO - 2021-08-06 09:28:58 --> Security Class Initialized
+DEBUG - 2021-08-06 09:28:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-06 09:28:58 --> Input Class Initialized
+INFO - 2021-08-06 09:28:58 --> Language Class Initialized
+INFO - 2021-08-06 09:28:58 --> Loader Class Initialized
+INFO - 2021-08-06 09:28:58 --> Helper loaded: url_helper
+INFO - 2021-08-06 09:28:58 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-06 09:28:58 --> Database Driver Class Initialized
+INFO - 2021-08-06 09:28:58 --> Email Class Initialized
+INFO - 2021-08-06 09:28:58 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-06 09:28:58 --> Controller Class Initialized
+INFO - 2021-08-06 09:28:58 --> Model Class Initialized
+INFO - 2021-08-06 09:28:58 --> Model Class Initialized
+INFO - 2021-08-06 09:28:58 --> Model Class Initialized
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:28:58 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-08-06 09:28:58 --> File loaded: C:\xampp\htdocs\allprojects\pavan\manage_expenses\application\views\personal/yearly.php
+INFO - 2021-08-06 09:28:58 --> Final output sent to browser
+DEBUG - 2021-08-06 09:28:58 --> Total execution time: 0.0955
+INFO - 2021-08-06 09:29:00 --> Config Class Initialized
+INFO - 2021-08-06 09:29:00 --> Hooks Class Initialized
+DEBUG - 2021-08-06 09:29:00 --> UTF-8 Support Enabled
+INFO - 2021-08-06 09:29:00 --> Utf8 Class Initialized
+INFO - 2021-08-06 09:29:00 --> URI Class Initialized
+INFO - 2021-08-06 09:29:00 --> Router Class Initialized
+INFO - 2021-08-06 09:29:00 --> Output Class Initialized
+INFO - 2021-08-06 09:29:00 --> Security Class Initialized
+DEBUG - 2021-08-06 09:29:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-06 09:29:00 --> Input Class Initialized
+INFO - 2021-08-06 09:29:00 --> Language Class Initialized
+INFO - 2021-08-06 09:29:00 --> Loader Class Initialized
+INFO - 2021-08-06 09:29:00 --> Helper loaded: url_helper
+INFO - 2021-08-06 09:29:00 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-06 09:29:00 --> Database Driver Class Initialized
+INFO - 2021-08-06 09:29:00 --> Email Class Initialized
+INFO - 2021-08-06 09:29:00 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-06 09:29:00 --> Controller Class Initialized
+INFO - 2021-08-06 09:29:00 --> Model Class Initialized
+INFO - 2021-08-06 09:29:00 --> Model Class Initialized
+INFO - 2021-08-06 09:29:00 --> Model Class Initialized
+DEBUG - 2021-08-06 09:29:00 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-08-06 09:29:00 --> File loaded: C:\xampp\htdocs\allprojects\pavan\manage_expenses\application\views\personal/responsibilities.php
+INFO - 2021-08-06 09:29:00 --> Final output sent to browser
+DEBUG - 2021-08-06 09:29:00 --> Total execution time: 0.0701
+INFO - 2021-08-06 09:38:00 --> Config Class Initialized
+INFO - 2021-08-06 09:38:00 --> Hooks Class Initialized
+DEBUG - 2021-08-06 09:38:00 --> UTF-8 Support Enabled
+INFO - 2021-08-06 09:38:00 --> Utf8 Class Initialized
+INFO - 2021-08-06 09:38:00 --> URI Class Initialized
+INFO - 2021-08-06 09:38:00 --> Router Class Initialized
+INFO - 2021-08-06 09:38:00 --> Output Class Initialized
+INFO - 2021-08-06 09:38:00 --> Security Class Initialized
+DEBUG - 2021-08-06 09:38:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-06 09:38:00 --> Input Class Initialized
+INFO - 2021-08-06 09:38:00 --> Language Class Initialized
+INFO - 2021-08-06 09:38:00 --> Loader Class Initialized
+INFO - 2021-08-06 09:38:00 --> Helper loaded: url_helper
+INFO - 2021-08-06 09:38:00 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-06 09:38:00 --> Database Driver Class Initialized
+INFO - 2021-08-06 09:38:00 --> Email Class Initialized
+INFO - 2021-08-06 09:38:00 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-06 09:38:00 --> Controller Class Initialized
+INFO - 2021-08-06 09:38:00 --> Model Class Initialized
+INFO - 2021-08-06 09:38:00 --> Model Class Initialized
+INFO - 2021-08-06 09:38:00 --> Model Class Initialized
+INFO - 2021-08-06 09:38:00 --> File loaded: C:\xampp\htdocs\allprojects\pavan\manage_expenses\application\views\personal.php
+INFO - 2021-08-06 09:38:00 --> Final output sent to browser
+DEBUG - 2021-08-06 09:38:00 --> Total execution time: 0.0453
+INFO - 2021-08-06 09:38:01 --> Config Class Initialized
+INFO - 2021-08-06 09:38:01 --> Hooks Class Initialized
+DEBUG - 2021-08-06 09:38:01 --> UTF-8 Support Enabled
+INFO - 2021-08-06 09:38:01 --> Utf8 Class Initialized
+INFO - 2021-08-06 09:38:01 --> URI Class Initialized
+INFO - 2021-08-06 09:38:01 --> Config Class Initialized
+INFO - 2021-08-06 09:38:01 --> Hooks Class Initialized
+INFO - 2021-08-06 09:38:01 --> Router Class Initialized
+INFO - 2021-08-06 09:38:01 --> Output Class Initialized
+DEBUG - 2021-08-06 09:38:01 --> UTF-8 Support Enabled
+INFO - 2021-08-06 09:38:01 --> Utf8 Class Initialized
+INFO - 2021-08-06 09:38:01 --> Security Class Initialized
+INFO - 2021-08-06 09:38:01 --> URI Class Initialized
+DEBUG - 2021-08-06 09:38:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-06 09:38:01 --> Input Class Initialized
+INFO - 2021-08-06 09:38:01 --> Router Class Initialized
+INFO - 2021-08-06 09:38:01 --> Language Class Initialized
+INFO - 2021-08-06 09:38:01 --> Output Class Initialized
+INFO - 2021-08-06 09:38:01 --> Loader Class Initialized
+INFO - 2021-08-06 09:38:01 --> Security Class Initialized
+INFO - 2021-08-06 09:38:01 --> Helper loaded: url_helper
+INFO - 2021-08-06 09:38:01 --> Helper loaded: mylibrary_helper
+DEBUG - 2021-08-06 09:38:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-06 09:38:01 --> Input Class Initialized
+INFO - 2021-08-06 09:38:01 --> Language Class Initialized
+INFO - 2021-08-06 09:38:01 --> Database Driver Class Initialized
+INFO - 2021-08-06 09:38:01 --> Loader Class Initialized
+INFO - 2021-08-06 09:38:01 --> Helper loaded: url_helper
+INFO - 2021-08-06 09:38:01 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-06 09:38:01 --> Email Class Initialized
+INFO - 2021-08-06 09:38:01 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-06 09:38:01 --> Database Driver Class Initialized
+INFO - 2021-08-06 09:38:01 --> Controller Class Initialized
+INFO - 2021-08-06 09:38:01 --> Model Class Initialized
+INFO - 2021-08-06 09:38:01 --> Model Class Initialized
+INFO - 2021-08-06 09:38:01 --> Model Class Initialized
+INFO - 2021-08-06 09:38:01 --> Email Class Initialized
+INFO - 2021-08-06 09:38:01 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-06 09:38:01 --> Controller Class Initialized
+INFO - 2021-08-06 09:38:01 --> Model Class Initialized
+INFO - 2021-08-06 09:38:01 --> Model Class Initialized
+INFO - 2021-08-06 09:38:01 --> Model Class Initialized
+DEBUG - 2021-08-06 09:38:01 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:01 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:01 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:01 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-08-06 09:38:01 --> File loaded: C:\xampp\htdocs\allprojects\pavan\manage_expenses\application\views\personal/monthly.php
+INFO - 2021-08-06 09:38:01 --> Final output sent to browser
+DEBUG - 2021-08-06 09:38:01 --> Total execution time: 0.0652
+INFO - 2021-08-06 09:38:02 --> Config Class Initialized
+INFO - 2021-08-06 09:38:02 --> Hooks Class Initialized
+DEBUG - 2021-08-06 09:38:02 --> UTF-8 Support Enabled
+INFO - 2021-08-06 09:38:02 --> Utf8 Class Initialized
+INFO - 2021-08-06 09:38:02 --> URI Class Initialized
+INFO - 2021-08-06 09:38:02 --> Router Class Initialized
+INFO - 2021-08-06 09:38:02 --> Output Class Initialized
+INFO - 2021-08-06 09:38:02 --> Security Class Initialized
+DEBUG - 2021-08-06 09:38:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-06 09:38:02 --> Input Class Initialized
+INFO - 2021-08-06 09:38:02 --> Language Class Initialized
+INFO - 2021-08-06 09:38:02 --> Loader Class Initialized
+INFO - 2021-08-06 09:38:02 --> Helper loaded: url_helper
+INFO - 2021-08-06 09:38:02 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-06 09:38:02 --> Database Driver Class Initialized
+INFO - 2021-08-06 09:38:02 --> Email Class Initialized
+INFO - 2021-08-06 09:38:02 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-06 09:38:02 --> Controller Class Initialized
+INFO - 2021-08-06 09:38:02 --> Model Class Initialized
+INFO - 2021-08-06 09:38:02 --> Model Class Initialized
+INFO - 2021-08-06 09:38:02 --> Model Class Initialized
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:02 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-08-06 09:38:02 --> File loaded: C:\xampp\htdocs\allprojects\pavan\manage_expenses\application\views\personal/yearly.php
+INFO - 2021-08-06 09:38:02 --> Final output sent to browser
+DEBUG - 2021-08-06 09:38:02 --> Total execution time: 0.0851
+INFO - 2021-08-06 09:38:05 --> Config Class Initialized
+INFO - 2021-08-06 09:38:05 --> Hooks Class Initialized
+DEBUG - 2021-08-06 09:38:05 --> UTF-8 Support Enabled
+INFO - 2021-08-06 09:38:05 --> Utf8 Class Initialized
+INFO - 2021-08-06 09:38:05 --> URI Class Initialized
+INFO - 2021-08-06 09:38:05 --> Router Class Initialized
+INFO - 2021-08-06 09:38:05 --> Output Class Initialized
+INFO - 2021-08-06 09:38:05 --> Security Class Initialized
+DEBUG - 2021-08-06 09:38:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-06 09:38:05 --> Input Class Initialized
+INFO - 2021-08-06 09:38:05 --> Language Class Initialized
+INFO - 2021-08-06 09:38:05 --> Loader Class Initialized
+INFO - 2021-08-06 09:38:05 --> Helper loaded: url_helper
+INFO - 2021-08-06 09:38:05 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-06 09:38:05 --> Database Driver Class Initialized
+INFO - 2021-08-06 09:38:05 --> Email Class Initialized
+INFO - 2021-08-06 09:38:05 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-06 09:38:05 --> Controller Class Initialized
+INFO - 2021-08-06 09:38:05 --> Model Class Initialized
+INFO - 2021-08-06 09:38:05 --> Model Class Initialized
+INFO - 2021-08-06 09:38:05 --> Model Class Initialized
+DEBUG - 2021-08-06 09:38:05 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-08-06 09:38:05 --> File loaded: C:\xampp\htdocs\allprojects\pavan\manage_expenses\application\views\personal/responsibilities.php
+INFO - 2021-08-06 09:38:05 --> Final output sent to browser
+DEBUG - 2021-08-06 09:38:05 --> Total execution time: 0.0448
+INFO - 2021-08-06 09:38:07 --> Config Class Initialized
+INFO - 2021-08-06 09:38:07 --> Hooks Class Initialized
+DEBUG - 2021-08-06 09:38:07 --> UTF-8 Support Enabled
+INFO - 2021-08-06 09:38:07 --> Utf8 Class Initialized
+INFO - 2021-08-06 09:38:07 --> URI Class Initialized
+INFO - 2021-08-06 09:38:07 --> Router Class Initialized
+INFO - 2021-08-06 09:38:07 --> Output Class Initialized
+INFO - 2021-08-06 09:38:07 --> Security Class Initialized
+DEBUG - 2021-08-06 09:38:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-06 09:38:07 --> Input Class Initialized
+INFO - 2021-08-06 09:38:07 --> Language Class Initialized
+INFO - 2021-08-06 09:38:07 --> Loader Class Initialized
+INFO - 2021-08-06 09:38:07 --> Helper loaded: url_helper
+INFO - 2021-08-06 09:38:07 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-06 09:38:07 --> Database Driver Class Initialized
+INFO - 2021-08-06 09:38:07 --> Email Class Initialized
+INFO - 2021-08-06 09:38:07 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-06 09:38:07 --> Controller Class Initialized
+INFO - 2021-08-06 09:38:07 --> Model Class Initialized
+INFO - 2021-08-06 09:38:07 --> Model Class Initialized
+INFO - 2021-08-06 09:38:07 --> Model Class Initialized
+DEBUG - 2021-08-06 09:38:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:07 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-08-06 09:38:07 --> File loaded: C:\xampp\htdocs\allprojects\pavan\manage_expenses\application\views\personal/custom.php
+INFO - 2021-08-06 09:38:07 --> Final output sent to browser
+DEBUG - 2021-08-06 09:38:07 --> Total execution time: 0.0602
+INFO - 2021-08-06 09:38:21 --> Config Class Initialized
+INFO - 2021-08-06 09:38:21 --> Hooks Class Initialized
+DEBUG - 2021-08-06 09:38:21 --> UTF-8 Support Enabled
+INFO - 2021-08-06 09:38:21 --> Utf8 Class Initialized
+INFO - 2021-08-06 09:38:21 --> URI Class Initialized
+INFO - 2021-08-06 09:38:21 --> Router Class Initialized
+INFO - 2021-08-06 09:38:21 --> Output Class Initialized
+INFO - 2021-08-06 09:38:21 --> Security Class Initialized
+DEBUG - 2021-08-06 09:38:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-06 09:38:21 --> Input Class Initialized
+INFO - 2021-08-06 09:38:21 --> Language Class Initialized
+INFO - 2021-08-06 09:38:21 --> Loader Class Initialized
+INFO - 2021-08-06 09:38:21 --> Helper loaded: url_helper
+INFO - 2021-08-06 09:38:21 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-06 09:38:21 --> Database Driver Class Initialized
+INFO - 2021-08-06 09:38:21 --> Email Class Initialized
+INFO - 2021-08-06 09:38:21 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-06 09:38:21 --> Controller Class Initialized
+INFO - 2021-08-06 09:38:21 --> Model Class Initialized
+INFO - 2021-08-06 09:38:21 --> Model Class Initialized
+INFO - 2021-08-06 09:38:21 --> Model Class Initialized
+INFO - 2021-08-06 09:38:21 --> File loaded: C:\xampp\htdocs\allprojects\pavan\manage_expenses\application\views\personal/add.php
+INFO - 2021-08-06 09:38:21 --> Final output sent to browser
+DEBUG - 2021-08-06 09:38:21 --> Total execution time: 0.0664
+INFO - 2021-08-06 09:38:25 --> Config Class Initialized
+INFO - 2021-08-06 09:38:25 --> Hooks Class Initialized
+DEBUG - 2021-08-06 09:38:25 --> UTF-8 Support Enabled
+INFO - 2021-08-06 09:38:25 --> Utf8 Class Initialized
+INFO - 2021-08-06 09:38:25 --> URI Class Initialized
+INFO - 2021-08-06 09:38:25 --> Router Class Initialized
+INFO - 2021-08-06 09:38:25 --> Output Class Initialized
+INFO - 2021-08-06 09:38:25 --> Security Class Initialized
+DEBUG - 2021-08-06 09:38:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-06 09:38:25 --> Input Class Initialized
+INFO - 2021-08-06 09:38:25 --> Language Class Initialized
+INFO - 2021-08-06 09:38:25 --> Loader Class Initialized
+INFO - 2021-08-06 09:38:25 --> Helper loaded: url_helper
+INFO - 2021-08-06 09:38:25 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-06 09:38:25 --> Database Driver Class Initialized
+INFO - 2021-08-06 09:38:25 --> Email Class Initialized
+INFO - 2021-08-06 09:38:25 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-06 09:38:25 --> Controller Class Initialized
+INFO - 2021-08-06 09:38:25 --> Model Class Initialized
+INFO - 2021-08-06 09:38:25 --> Model Class Initialized
+INFO - 2021-08-06 09:38:25 --> Model Class Initialized
+DEBUG - 2021-08-06 09:38:25 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:25 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:25 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:25 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-08-06 09:38:25 --> File loaded: C:\xampp\htdocs\allprojects\pavan\manage_expenses\application\views\personal/overview.php
+INFO - 2021-08-06 09:38:25 --> Final output sent to browser
+DEBUG - 2021-08-06 09:38:25 --> Total execution time: 0.0576
+INFO - 2021-08-06 09:38:27 --> Config Class Initialized
+INFO - 2021-08-06 09:38:27 --> Hooks Class Initialized
+DEBUG - 2021-08-06 09:38:27 --> UTF-8 Support Enabled
+INFO - 2021-08-06 09:38:27 --> Utf8 Class Initialized
+INFO - 2021-08-06 09:38:27 --> URI Class Initialized
+INFO - 2021-08-06 09:38:27 --> Router Class Initialized
+INFO - 2021-08-06 09:38:27 --> Output Class Initialized
+INFO - 2021-08-06 09:38:27 --> Security Class Initialized
+DEBUG - 2021-08-06 09:38:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-06 09:38:27 --> Input Class Initialized
+INFO - 2021-08-06 09:38:27 --> Language Class Initialized
+INFO - 2021-08-06 09:38:27 --> Loader Class Initialized
+INFO - 2021-08-06 09:38:27 --> Helper loaded: url_helper
+INFO - 2021-08-06 09:38:27 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-06 09:38:27 --> Database Driver Class Initialized
+INFO - 2021-08-06 09:38:27 --> Email Class Initialized
+INFO - 2021-08-06 09:38:27 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-06 09:38:27 --> Controller Class Initialized
+INFO - 2021-08-06 09:38:27 --> Model Class Initialized
+INFO - 2021-08-06 09:38:27 --> Model Class Initialized
+INFO - 2021-08-06 09:38:27 --> Model Class Initialized
+DEBUG - 2021-08-06 09:38:27 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:27 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:27 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:27 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-08-06 09:38:27 --> File loaded: C:\xampp\htdocs\allprojects\pavan\manage_expenses\application\views\personal/daytoday.php
+INFO - 2021-08-06 09:38:27 --> Final output sent to browser
+DEBUG - 2021-08-06 09:38:27 --> Total execution time: 0.0588
+INFO - 2021-08-06 09:38:29 --> Config Class Initialized
+INFO - 2021-08-06 09:38:29 --> Hooks Class Initialized
+DEBUG - 2021-08-06 09:38:29 --> UTF-8 Support Enabled
+INFO - 2021-08-06 09:38:29 --> Utf8 Class Initialized
+INFO - 2021-08-06 09:38:29 --> URI Class Initialized
+INFO - 2021-08-06 09:38:29 --> Router Class Initialized
+INFO - 2021-08-06 09:38:29 --> Output Class Initialized
+INFO - 2021-08-06 09:38:29 --> Security Class Initialized
+DEBUG - 2021-08-06 09:38:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-06 09:38:29 --> Input Class Initialized
+INFO - 2021-08-06 09:38:29 --> Language Class Initialized
+INFO - 2021-08-06 09:38:29 --> Loader Class Initialized
+INFO - 2021-08-06 09:38:29 --> Helper loaded: url_helper
+INFO - 2021-08-06 09:38:29 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-06 09:38:29 --> Database Driver Class Initialized
+INFO - 2021-08-06 09:38:29 --> Email Class Initialized
+INFO - 2021-08-06 09:38:29 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-06 09:38:29 --> Controller Class Initialized
+INFO - 2021-08-06 09:38:29 --> Model Class Initialized
+INFO - 2021-08-06 09:38:29 --> Model Class Initialized
+INFO - 2021-08-06 09:38:29 --> Model Class Initialized
+DEBUG - 2021-08-06 09:38:29 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:29 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:29 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:29 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-08-06 09:38:29 --> File loaded: C:\xampp\htdocs\allprojects\pavan\manage_expenses\application\views\personal/monthly.php
+INFO - 2021-08-06 09:38:29 --> Final output sent to browser
+DEBUG - 2021-08-06 09:38:29 --> Total execution time: 0.0621
+INFO - 2021-08-06 09:38:30 --> Config Class Initialized
+INFO - 2021-08-06 09:38:30 --> Hooks Class Initialized
+DEBUG - 2021-08-06 09:38:30 --> UTF-8 Support Enabled
+INFO - 2021-08-06 09:38:30 --> Utf8 Class Initialized
+INFO - 2021-08-06 09:38:30 --> URI Class Initialized
+INFO - 2021-08-06 09:38:30 --> Router Class Initialized
+INFO - 2021-08-06 09:38:30 --> Output Class Initialized
+INFO - 2021-08-06 09:38:30 --> Security Class Initialized
+DEBUG - 2021-08-06 09:38:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-06 09:38:30 --> Input Class Initialized
+INFO - 2021-08-06 09:38:30 --> Language Class Initialized
+INFO - 2021-08-06 09:38:30 --> Loader Class Initialized
+INFO - 2021-08-06 09:38:30 --> Helper loaded: url_helper
+INFO - 2021-08-06 09:38:30 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-06 09:38:30 --> Database Driver Class Initialized
+INFO - 2021-08-06 09:38:30 --> Email Class Initialized
+INFO - 2021-08-06 09:38:30 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-06 09:38:30 --> Controller Class Initialized
+INFO - 2021-08-06 09:38:30 --> Model Class Initialized
+INFO - 2021-08-06 09:38:30 --> Model Class Initialized
+INFO - 2021-08-06 09:38:30 --> Model Class Initialized
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:38:30 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-08-06 09:38:30 --> File loaded: C:\xampp\htdocs\allprojects\pavan\manage_expenses\application\views\personal/yearly.php
+INFO - 2021-08-06 09:38:30 --> Final output sent to browser
+DEBUG - 2021-08-06 09:38:30 --> Total execution time: 0.0790
+INFO - 2021-08-06 09:38:31 --> Config Class Initialized
+INFO - 2021-08-06 09:38:31 --> Hooks Class Initialized
+DEBUG - 2021-08-06 09:38:31 --> UTF-8 Support Enabled
+INFO - 2021-08-06 09:38:31 --> Utf8 Class Initialized
+INFO - 2021-08-06 09:38:31 --> URI Class Initialized
+INFO - 2021-08-06 09:38:31 --> Router Class Initialized
+INFO - 2021-08-06 09:38:31 --> Output Class Initialized
+INFO - 2021-08-06 09:38:31 --> Security Class Initialized
+DEBUG - 2021-08-06 09:38:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-06 09:38:31 --> Input Class Initialized
+INFO - 2021-08-06 09:38:31 --> Language Class Initialized
+INFO - 2021-08-06 09:38:31 --> Loader Class Initialized
+INFO - 2021-08-06 09:38:31 --> Helper loaded: url_helper
+INFO - 2021-08-06 09:38:31 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-06 09:38:31 --> Database Driver Class Initialized
+INFO - 2021-08-06 09:38:31 --> Email Class Initialized
+INFO - 2021-08-06 09:38:31 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-06 09:38:31 --> Controller Class Initialized
+INFO - 2021-08-06 09:38:31 --> Model Class Initialized
+INFO - 2021-08-06 09:38:31 --> Model Class Initialized
+INFO - 2021-08-06 09:38:31 --> Model Class Initialized
+DEBUG - 2021-08-06 09:38:31 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-08-06 09:38:31 --> File loaded: C:\xampp\htdocs\allprojects\pavan\manage_expenses\application\views\personal/responsibilities.php
+INFO - 2021-08-06 09:38:31 --> Final output sent to browser
+DEBUG - 2021-08-06 09:38:31 --> Total execution time: 0.0430
+INFO - 2021-08-06 09:44:14 --> Config Class Initialized
+INFO - 2021-08-06 09:44:14 --> Hooks Class Initialized
+DEBUG - 2021-08-06 09:44:14 --> UTF-8 Support Enabled
+INFO - 2021-08-06 09:44:14 --> Utf8 Class Initialized
+INFO - 2021-08-06 09:44:14 --> URI Class Initialized
+INFO - 2021-08-06 09:44:14 --> Router Class Initialized
+INFO - 2021-08-06 09:44:14 --> Output Class Initialized
+INFO - 2021-08-06 09:44:14 --> Security Class Initialized
+DEBUG - 2021-08-06 09:44:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-06 09:44:14 --> Input Class Initialized
+INFO - 2021-08-06 09:44:14 --> Language Class Initialized
+INFO - 2021-08-06 09:44:14 --> Loader Class Initialized
+INFO - 2021-08-06 09:44:14 --> Helper loaded: url_helper
+INFO - 2021-08-06 09:44:14 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-06 09:44:14 --> Database Driver Class Initialized
+INFO - 2021-08-06 09:44:14 --> Email Class Initialized
+INFO - 2021-08-06 09:44:14 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-06 09:44:14 --> Controller Class Initialized
+INFO - 2021-08-06 09:44:14 --> Model Class Initialized
+INFO - 2021-08-06 09:44:14 --> Model Class Initialized
+INFO - 2021-08-06 09:44:14 --> Model Class Initialized
+INFO - 2021-08-06 09:44:14 --> File loaded: C:\xampp\htdocs\allprojects\pavan\manage_expenses\application\views\personal.php
+INFO - 2021-08-06 09:44:14 --> Final output sent to browser
+DEBUG - 2021-08-06 09:44:14 --> Total execution time: 0.0383
+INFO - 2021-08-06 09:44:15 --> Config Class Initialized
+INFO - 2021-08-06 09:44:15 --> Hooks Class Initialized
+DEBUG - 2021-08-06 09:44:15 --> UTF-8 Support Enabled
+INFO - 2021-08-06 09:44:15 --> Utf8 Class Initialized
+INFO - 2021-08-06 09:44:15 --> URI Class Initialized
+INFO - 2021-08-06 09:44:15 --> Config Class Initialized
+INFO - 2021-08-06 09:44:15 --> Hooks Class Initialized
+INFO - 2021-08-06 09:44:15 --> Router Class Initialized
+DEBUG - 2021-08-06 09:44:15 --> UTF-8 Support Enabled
+INFO - 2021-08-06 09:44:15 --> Utf8 Class Initialized
+INFO - 2021-08-06 09:44:15 --> Output Class Initialized
+INFO - 2021-08-06 09:44:15 --> URI Class Initialized
+INFO - 2021-08-06 09:44:15 --> Security Class Initialized
+INFO - 2021-08-06 09:44:15 --> Router Class Initialized
+DEBUG - 2021-08-06 09:44:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-06 09:44:15 --> Input Class Initialized
+INFO - 2021-08-06 09:44:15 --> Output Class Initialized
+INFO - 2021-08-06 09:44:15 --> Language Class Initialized
+INFO - 2021-08-06 09:44:15 --> Security Class Initialized
+INFO - 2021-08-06 09:44:15 --> Loader Class Initialized
+INFO - 2021-08-06 09:44:15 --> Helper loaded: url_helper
+DEBUG - 2021-08-06 09:44:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-06 09:44:15 --> Input Class Initialized
+INFO - 2021-08-06 09:44:15 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-06 09:44:15 --> Language Class Initialized
+INFO - 2021-08-06 09:44:15 --> Loader Class Initialized
+INFO - 2021-08-06 09:44:15 --> Helper loaded: url_helper
+INFO - 2021-08-06 09:44:15 --> Database Driver Class Initialized
+INFO - 2021-08-06 09:44:15 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-06 09:44:15 --> Email Class Initialized
+INFO - 2021-08-06 09:44:15 --> Database Driver Class Initialized
+INFO - 2021-08-06 09:44:15 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-06 09:44:15 --> Controller Class Initialized
+INFO - 2021-08-06 09:44:15 --> Model Class Initialized
+INFO - 2021-08-06 09:44:15 --> Model Class Initialized
+INFO - 2021-08-06 09:44:15 --> Email Class Initialized
+INFO - 2021-08-06 09:44:15 --> Model Class Initialized
+INFO - 2021-08-06 09:44:15 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-06 09:44:15 --> Controller Class Initialized
+INFO - 2021-08-06 09:44:15 --> Model Class Initialized
+INFO - 2021-08-06 09:44:15 --> Model Class Initialized
+INFO - 2021-08-06 09:44:15 --> Model Class Initialized
+DEBUG - 2021-08-06 09:44:15 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:44:15 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:44:15 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-06 09:44:15 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-08-06 09:44:15 --> File loaded: C:\xampp\htdocs\allprojects\pavan\manage_expenses\application\views\personal/monthly.php
+INFO - 2021-08-06 09:44:15 --> Final output sent to browser
+DEBUG - 2021-08-06 09:44:15 --> Total execution time: 0.0609

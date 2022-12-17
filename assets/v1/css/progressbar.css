@@ -1,0 +1,10 @@
+.eggy>div .progress-bar{height:100%;width:105%;position:absolute;top:0;z-index:1;-webkit-clip-path:polygon(0 0,100% 0,95% 100%,0 100%);clip-path:polygon(0 0,100% 0,95% 100%,0 100%);-webkit-animation-name:progressBar;animation-name:progressBar;-webkit-animation-fill-mode:forwards;animation-fill-mode:forwards;-webkit-animation-timing-function:linear;animation-timing-function:linear}.eggy>div.success>.progress-bar{background-color:rgba(97,201,168,.1)}.eggy>div.warning>.progress-bar{background-color:rgba(237,155,64,.1)}.eggy>div.info>.progress-bar{background-color:rgba(64,162,237,.1)}.eggy>div.error>.progress-bar{background-color:rgba(214,69,80,.1)}.eggy.top-right{right:0px!important;}.eggy{position:fixed!important;width:400px!important;max-width:100%!important;padding:1rem!important;top:50px!important;}
+/** title */
+.eggy>div>div .message.title, .eggy>div>div .title.title{ font-weight:400 !important; font-size:.8rem !important }
+/** message */
+.eggy>div>div .message.message, .eggy>div>div .title.message { display: none !important; }
+/** remove gap */
+.eggy>div { grid-gap: .0rem !important; }
+/** success, error border */
+.eggy>div.success { border: 5px solid #61c9a8 !important; }
+.eggy>div.error { border: 5px solid #d64550 !important; }

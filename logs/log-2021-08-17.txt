@@ -1,0 +1,426 @@
+INFO - 2021-08-17 12:45:00 --> Config Class Initialized
+INFO - 2021-08-17 12:45:00 --> Hooks Class Initialized
+DEBUG - 2021-08-17 12:45:00 --> UTF-8 Support Enabled
+INFO - 2021-08-17 12:45:00 --> Utf8 Class Initialized
+INFO - 2021-08-17 12:45:00 --> URI Class Initialized
+DEBUG - 2021-08-17 12:45:00 --> No URI present. Default controller set.
+INFO - 2021-08-17 12:45:00 --> Router Class Initialized
+INFO - 2021-08-17 12:45:00 --> Output Class Initialized
+INFO - 2021-08-17 12:45:00 --> Security Class Initialized
+DEBUG - 2021-08-17 12:45:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-17 12:45:00 --> Input Class Initialized
+INFO - 2021-08-17 12:45:00 --> Language Class Initialized
+INFO - 2021-08-17 12:45:00 --> Loader Class Initialized
+INFO - 2021-08-17 12:45:00 --> Helper loaded: url_helper
+INFO - 2021-08-17 12:45:00 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-17 12:45:01 --> Database Driver Class Initialized
+INFO - 2021-08-17 12:45:01 --> Email Class Initialized
+INFO - 2021-08-17 12:45:01 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-17 12:45:01 --> Controller Class Initialized
+INFO - 2021-08-17 12:45:01 --> Model Class Initialized
+INFO - 2021-08-17 12:45:01 --> Model Class Initialized
+INFO - 2021-08-17 12:45:01 --> Model Class Initialized
+INFO - 2021-08-17 12:45:01 --> Config Class Initialized
+INFO - 2021-08-17 12:45:01 --> Hooks Class Initialized
+DEBUG - 2021-08-17 12:45:01 --> UTF-8 Support Enabled
+INFO - 2021-08-17 12:45:01 --> Utf8 Class Initialized
+INFO - 2021-08-17 12:45:01 --> URI Class Initialized
+INFO - 2021-08-17 12:45:01 --> Router Class Initialized
+INFO - 2021-08-17 12:45:01 --> Output Class Initialized
+INFO - 2021-08-17 12:45:01 --> Security Class Initialized
+DEBUG - 2021-08-17 12:45:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-17 12:45:01 --> Input Class Initialized
+INFO - 2021-08-17 12:45:01 --> Language Class Initialized
+INFO - 2021-08-17 12:45:01 --> Config Class Initialized
+INFO - 2021-08-17 12:45:01 --> Hooks Class Initialized
+DEBUG - 2021-08-17 12:45:01 --> UTF-8 Support Enabled
+INFO - 2021-08-17 12:45:01 --> Utf8 Class Initialized
+INFO - 2021-08-17 12:45:01 --> URI Class Initialized
+INFO - 2021-08-17 12:45:01 --> Router Class Initialized
+ERROR - 2021-08-17 12:45:01 --> 404 Page Not Found: Faviconico/index
+INFO - 2021-08-17 12:45:01 --> Output Class Initialized
+INFO - 2021-08-17 12:45:01 --> Security Class Initialized
+DEBUG - 2021-08-17 12:45:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-17 12:45:01 --> Input Class Initialized
+INFO - 2021-08-17 12:45:01 --> Language Class Initialized
+INFO - 2021-08-17 12:45:01 --> Loader Class Initialized
+INFO - 2021-08-17 12:45:01 --> Helper loaded: url_helper
+INFO - 2021-08-17 12:45:01 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-17 12:45:01 --> Database Driver Class Initialized
+INFO - 2021-08-17 12:45:01 --> Email Class Initialized
+INFO - 2021-08-17 12:45:01 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-17 12:45:01 --> Controller Class Initialized
+INFO - 2021-08-17 12:45:01 --> Model Class Initialized
+INFO - 2021-08-17 12:45:01 --> Model Class Initialized
+INFO - 2021-08-17 12:45:01 --> File loaded: C:\xampp\htdocs\allprojects\pavan\manage_expenses\application\views\login.php
+INFO - 2021-08-17 12:45:01 --> Final output sent to browser
+DEBUG - 2021-08-17 12:45:01 --> Total execution time: 0.1455
+INFO - 2021-08-17 12:45:21 --> Config Class Initialized
+INFO - 2021-08-17 12:45:21 --> Hooks Class Initialized
+DEBUG - 2021-08-17 12:45:21 --> UTF-8 Support Enabled
+INFO - 2021-08-17 12:45:21 --> Utf8 Class Initialized
+INFO - 2021-08-17 12:45:21 --> URI Class Initialized
+INFO - 2021-08-17 12:45:21 --> Router Class Initialized
+INFO - 2021-08-17 12:45:21 --> Output Class Initialized
+INFO - 2021-08-17 12:45:21 --> Security Class Initialized
+DEBUG - 2021-08-17 12:45:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-17 12:45:21 --> Input Class Initialized
+INFO - 2021-08-17 12:45:21 --> Language Class Initialized
+INFO - 2021-08-17 12:45:21 --> Loader Class Initialized
+INFO - 2021-08-17 12:45:21 --> Helper loaded: url_helper
+INFO - 2021-08-17 12:45:21 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-17 12:45:21 --> Database Driver Class Initialized
+INFO - 2021-08-17 12:45:21 --> Email Class Initialized
+INFO - 2021-08-17 12:45:21 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-17 12:45:21 --> Controller Class Initialized
+INFO - 2021-08-17 12:45:21 --> Model Class Initialized
+INFO - 2021-08-17 12:45:21 --> Model Class Initialized
+INFO - 2021-08-17 12:45:21 --> File loaded: C:\xampp\htdocs\allprojects\pavan\manage_expenses\application\views\fcmtoken.php
+INFO - 2021-08-17 12:45:21 --> Final output sent to browser
+DEBUG - 2021-08-17 12:45:21 --> Total execution time: 0.2641
+INFO - 2021-08-17 12:45:22 --> Config Class Initialized
+INFO - 2021-08-17 12:45:22 --> Hooks Class Initialized
+DEBUG - 2021-08-17 12:45:22 --> UTF-8 Support Enabled
+INFO - 2021-08-17 12:45:22 --> Utf8 Class Initialized
+INFO - 2021-08-17 12:45:22 --> URI Class Initialized
+INFO - 2021-08-17 12:45:22 --> Router Class Initialized
+INFO - 2021-08-17 12:45:22 --> Output Class Initialized
+INFO - 2021-08-17 12:45:22 --> Security Class Initialized
+DEBUG - 2021-08-17 12:45:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-17 12:45:22 --> Input Class Initialized
+INFO - 2021-08-17 12:45:22 --> Language Class Initialized
+INFO - 2021-08-17 12:45:22 --> Loader Class Initialized
+INFO - 2021-08-17 12:45:22 --> Helper loaded: url_helper
+INFO - 2021-08-17 12:45:22 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-17 12:45:22 --> Database Driver Class Initialized
+INFO - 2021-08-17 12:45:22 --> Email Class Initialized
+INFO - 2021-08-17 12:45:22 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-17 12:45:22 --> Controller Class Initialized
+INFO - 2021-08-17 12:45:22 --> Model Class Initialized
+INFO - 2021-08-17 12:45:22 --> Model Class Initialized
+INFO - 2021-08-17 12:45:22 --> Model Class Initialized
+INFO - 2021-08-17 12:45:22 --> File loaded: C:\xampp\htdocs\allprojects\pavan\manage_expenses\application\views\personal.php
+INFO - 2021-08-17 12:45:22 --> Final output sent to browser
+DEBUG - 2021-08-17 12:45:22 --> Total execution time: 0.1295
+INFO - 2021-08-17 12:45:23 --> Config Class Initialized
+INFO - 2021-08-17 12:45:23 --> Hooks Class Initialized
+DEBUG - 2021-08-17 12:45:23 --> UTF-8 Support Enabled
+INFO - 2021-08-17 12:45:23 --> Utf8 Class Initialized
+INFO - 2021-08-17 12:45:23 --> Config Class Initialized
+INFO - 2021-08-17 12:45:23 --> Hooks Class Initialized
+INFO - 2021-08-17 12:45:23 --> URI Class Initialized
+DEBUG - 2021-08-17 12:45:23 --> UTF-8 Support Enabled
+INFO - 2021-08-17 12:45:23 --> Utf8 Class Initialized
+INFO - 2021-08-17 12:45:23 --> URI Class Initialized
+INFO - 2021-08-17 12:45:23 --> Router Class Initialized
+INFO - 2021-08-17 12:45:23 --> Output Class Initialized
+INFO - 2021-08-17 12:45:23 --> Router Class Initialized
+INFO - 2021-08-17 12:45:23 --> Output Class Initialized
+INFO - 2021-08-17 12:45:23 --> Security Class Initialized
+DEBUG - 2021-08-17 12:45:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-17 12:45:23 --> Input Class Initialized
+INFO - 2021-08-17 12:45:23 --> Security Class Initialized
+INFO - 2021-08-17 12:45:23 --> Language Class Initialized
+DEBUG - 2021-08-17 12:45:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-17 12:45:23 --> Input Class Initialized
+INFO - 2021-08-17 12:45:23 --> Language Class Initialized
+INFO - 2021-08-17 12:45:23 --> Loader Class Initialized
+INFO - 2021-08-17 12:45:23 --> Helper loaded: url_helper
+INFO - 2021-08-17 12:45:23 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-17 12:45:23 --> Loader Class Initialized
+INFO - 2021-08-17 12:45:23 --> Database Driver Class Initialized
+INFO - 2021-08-17 12:45:23 --> Helper loaded: url_helper
+INFO - 2021-08-17 12:45:23 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-17 12:45:23 --> Email Class Initialized
+INFO - 2021-08-17 12:45:23 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-17 12:45:23 --> Controller Class Initialized
+INFO - 2021-08-17 12:45:23 --> Database Driver Class Initialized
+INFO - 2021-08-17 12:45:23 --> Model Class Initialized
+INFO - 2021-08-17 12:45:23 --> Model Class Initialized
+INFO - 2021-08-17 12:45:23 --> Model Class Initialized
+INFO - 2021-08-17 12:45:23 --> Email Class Initialized
+INFO - 2021-08-17 12:45:23 --> File loaded: C:\xampp\htdocs\allprojects\pavan\manage_expenses\application\views\personal/monthly.php
+INFO - 2021-08-17 12:45:23 --> Final output sent to browser
+DEBUG - 2021-08-17 12:45:23 --> Total execution time: 0.1411
+INFO - 2021-08-17 12:45:23 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-17 12:45:23 --> Controller Class Initialized
+INFO - 2021-08-17 12:45:23 --> Model Class Initialized
+INFO - 2021-08-17 12:45:23 --> Model Class Initialized
+INFO - 2021-08-17 12:45:23 --> Model Class Initialized
+INFO - 2021-08-17 12:45:23 --> Config Class Initialized
+INFO - 2021-08-17 12:45:23 --> Hooks Class Initialized
+DEBUG - 2021-08-17 12:45:23 --> UTF-8 Support Enabled
+INFO - 2021-08-17 12:45:23 --> Utf8 Class Initialized
+INFO - 2021-08-17 12:45:23 --> URI Class Initialized
+INFO - 2021-08-17 12:45:23 --> Router Class Initialized
+INFO - 2021-08-17 12:45:23 --> Output Class Initialized
+INFO - 2021-08-17 12:45:23 --> Security Class Initialized
+DEBUG - 2021-08-17 12:45:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-17 12:45:23 --> Input Class Initialized
+INFO - 2021-08-17 12:45:23 --> Language Class Initialized
+INFO - 2021-08-17 12:45:23 --> Loader Class Initialized
+INFO - 2021-08-17 12:45:23 --> Helper loaded: url_helper
+INFO - 2021-08-17 12:45:23 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-17 12:45:23 --> Database Driver Class Initialized
+INFO - 2021-08-17 12:45:23 --> Email Class Initialized
+INFO - 2021-08-17 12:45:23 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-17 12:45:23 --> Controller Class Initialized
+INFO - 2021-08-17 12:45:23 --> Model Class Initialized
+INFO - 2021-08-17 12:45:23 --> Model Class Initialized
+INFO - 2021-08-17 12:45:23 --> Model Class Initialized
+DEBUG - 2021-08-17 12:45:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-17 12:45:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-17 12:45:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-17 12:45:24 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-08-17 12:45:24 --> File loaded: C:\xampp\htdocs\allprojects\pavan\manage_expenses\application\views\personal/monthly_overview.php
+INFO - 2021-08-17 12:45:24 --> Final output sent to browser
+DEBUG - 2021-08-17 12:45:24 --> Total execution time: 0.1499
+INFO - 2021-08-17 12:45:30 --> Config Class Initialized
+INFO - 2021-08-17 12:45:30 --> Hooks Class Initialized
+DEBUG - 2021-08-17 12:45:30 --> UTF-8 Support Enabled
+INFO - 2021-08-17 12:45:30 --> Utf8 Class Initialized
+INFO - 2021-08-17 12:45:30 --> URI Class Initialized
+INFO - 2021-08-17 12:45:30 --> Router Class Initialized
+INFO - 2021-08-17 12:45:30 --> Output Class Initialized
+INFO - 2021-08-17 12:45:30 --> Security Class Initialized
+DEBUG - 2021-08-17 12:45:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-17 12:45:30 --> Input Class Initialized
+INFO - 2021-08-17 12:45:30 --> Language Class Initialized
+INFO - 2021-08-17 12:45:30 --> Loader Class Initialized
+INFO - 2021-08-17 12:45:30 --> Helper loaded: url_helper
+INFO - 2021-08-17 12:45:30 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-17 12:45:30 --> Database Driver Class Initialized
+INFO - 2021-08-17 12:45:30 --> Email Class Initialized
+INFO - 2021-08-17 12:45:30 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-17 12:45:30 --> Controller Class Initialized
+INFO - 2021-08-17 12:45:30 --> Model Class Initialized
+INFO - 2021-08-17 12:45:30 --> Model Class Initialized
+INFO - 2021-08-17 12:45:30 --> Model Class Initialized
+INFO - 2021-08-17 12:45:30 --> File loaded: C:\xampp\htdocs\allprojects\pavan\manage_expenses\application\views\personal/daytoday.php
+INFO - 2021-08-17 12:45:30 --> Final output sent to browser
+DEBUG - 2021-08-17 12:45:30 --> Total execution time: 0.0745
+INFO - 2021-08-17 12:45:30 --> Config Class Initialized
+INFO - 2021-08-17 12:45:30 --> Config Class Initialized
+INFO - 2021-08-17 12:45:30 --> Hooks Class Initialized
+INFO - 2021-08-17 12:45:30 --> Hooks Class Initialized
+DEBUG - 2021-08-17 12:45:30 --> UTF-8 Support Enabled
+INFO - 2021-08-17 12:45:30 --> Utf8 Class Initialized
+DEBUG - 2021-08-17 12:45:30 --> UTF-8 Support Enabled
+INFO - 2021-08-17 12:45:30 --> Utf8 Class Initialized
+INFO - 2021-08-17 12:45:30 --> URI Class Initialized
+INFO - 2021-08-17 12:45:30 --> URI Class Initialized
+INFO - 2021-08-17 12:45:30 --> Router Class Initialized
+INFO - 2021-08-17 12:45:30 --> Router Class Initialized
+INFO - 2021-08-17 12:45:30 --> Output Class Initialized
+INFO - 2021-08-17 12:45:30 --> Output Class Initialized
+INFO - 2021-08-17 12:45:30 --> Security Class Initialized
+INFO - 2021-08-17 12:45:30 --> Security Class Initialized
+DEBUG - 2021-08-17 12:45:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-17 12:45:30 --> Input Class Initialized
+INFO - 2021-08-17 12:45:30 --> Language Class Initialized
+DEBUG - 2021-08-17 12:45:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-17 12:45:30 --> Input Class Initialized
+INFO - 2021-08-17 12:45:30 --> Language Class Initialized
+INFO - 2021-08-17 12:45:30 --> Loader Class Initialized
+INFO - 2021-08-17 12:45:30 --> Loader Class Initialized
+INFO - 2021-08-17 12:45:30 --> Helper loaded: url_helper
+INFO - 2021-08-17 12:45:30 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-17 12:45:30 --> Helper loaded: url_helper
+INFO - 2021-08-17 12:45:30 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-17 12:45:30 --> Database Driver Class Initialized
+INFO - 2021-08-17 12:45:30 --> Database Driver Class Initialized
+INFO - 2021-08-17 12:45:30 --> Email Class Initialized
+INFO - 2021-08-17 12:45:30 --> Email Class Initialized
+INFO - 2021-08-17 12:45:30 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-17 12:45:30 --> Controller Class Initialized
+INFO - 2021-08-17 12:45:30 --> Model Class Initialized
+INFO - 2021-08-17 12:45:30 --> Model Class Initialized
+INFO - 2021-08-17 12:45:30 --> Model Class Initialized
+DEBUG - 2021-08-17 12:45:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-17 12:45:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-17 12:45:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-17 12:45:30 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-08-17 12:45:30 --> File loaded: C:\xampp\htdocs\allprojects\pavan\manage_expenses\application\views\personal/daytoday_overview.php
+INFO - 2021-08-17 12:45:30 --> Final output sent to browser
+DEBUG - 2021-08-17 12:45:30 --> Total execution time: 0.0843
+INFO - 2021-08-17 12:45:30 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-17 12:45:30 --> Controller Class Initialized
+INFO - 2021-08-17 12:45:30 --> Model Class Initialized
+INFO - 2021-08-17 12:45:30 --> Model Class Initialized
+INFO - 2021-08-17 12:45:30 --> Model Class Initialized
+INFO - 2021-08-17 12:45:30 --> File loaded: C:\xampp\htdocs\allprojects\pavan\manage_expenses\application\views\personal/daytoday_details.php
+INFO - 2021-08-17 12:45:30 --> Final output sent to browser
+DEBUG - 2021-08-17 12:45:30 --> Total execution time: 0.1059
+INFO - 2021-08-17 12:46:51 --> Config Class Initialized
+INFO - 2021-08-17 12:46:51 --> Hooks Class Initialized
+DEBUG - 2021-08-17 12:46:51 --> UTF-8 Support Enabled
+INFO - 2021-08-17 12:46:51 --> Utf8 Class Initialized
+INFO - 2021-08-17 12:46:51 --> URI Class Initialized
+INFO - 2021-08-17 12:46:51 --> Router Class Initialized
+INFO - 2021-08-17 12:46:51 --> Output Class Initialized
+INFO - 2021-08-17 12:46:51 --> Security Class Initialized
+DEBUG - 2021-08-17 12:46:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-17 12:46:51 --> Input Class Initialized
+INFO - 2021-08-17 12:46:51 --> Language Class Initialized
+INFO - 2021-08-17 12:46:51 --> Loader Class Initialized
+INFO - 2021-08-17 12:46:51 --> Helper loaded: url_helper
+INFO - 2021-08-17 12:46:51 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-17 12:46:51 --> Database Driver Class Initialized
+INFO - 2021-08-17 12:46:51 --> Email Class Initialized
+INFO - 2021-08-17 12:46:51 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-17 12:46:51 --> Controller Class Initialized
+INFO - 2021-08-17 12:46:51 --> Model Class Initialized
+INFO - 2021-08-17 12:46:51 --> Model Class Initialized
+INFO - 2021-08-17 12:46:51 --> Model Class Initialized
+INFO - 2021-08-17 12:46:51 --> File loaded: C:\xampp\htdocs\allprojects\pavan\manage_expenses\application\views\personal.php
+INFO - 2021-08-17 12:46:51 --> Final output sent to browser
+DEBUG - 2021-08-17 12:46:51 --> Total execution time: 0.0550
+INFO - 2021-08-17 12:46:51 --> Config Class Initialized
+INFO - 2021-08-17 12:46:51 --> Hooks Class Initialized
+INFO - 2021-08-17 12:46:51 --> Config Class Initialized
+INFO - 2021-08-17 12:46:51 --> Hooks Class Initialized
+DEBUG - 2021-08-17 12:46:51 --> UTF-8 Support Enabled
+DEBUG - 2021-08-17 12:46:51 --> UTF-8 Support Enabled
+INFO - 2021-08-17 12:46:51 --> Utf8 Class Initialized
+INFO - 2021-08-17 12:46:51 --> Utf8 Class Initialized
+INFO - 2021-08-17 12:46:51 --> URI Class Initialized
+INFO - 2021-08-17 12:46:51 --> URI Class Initialized
+INFO - 2021-08-17 12:46:51 --> Router Class Initialized
+INFO - 2021-08-17 12:46:51 --> Router Class Initialized
+INFO - 2021-08-17 12:46:51 --> Output Class Initialized
+INFO - 2021-08-17 12:46:51 --> Output Class Initialized
+INFO - 2021-08-17 12:46:51 --> Security Class Initialized
+INFO - 2021-08-17 12:46:51 --> Security Class Initialized
+DEBUG - 2021-08-17 12:46:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-08-17 12:46:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-17 12:46:51 --> Input Class Initialized
+INFO - 2021-08-17 12:46:51 --> Input Class Initialized
+INFO - 2021-08-17 12:46:51 --> Language Class Initialized
+INFO - 2021-08-17 12:46:51 --> Language Class Initialized
+INFO - 2021-08-17 12:46:51 --> Loader Class Initialized
+INFO - 2021-08-17 12:46:51 --> Loader Class Initialized
+INFO - 2021-08-17 12:46:51 --> Helper loaded: url_helper
+INFO - 2021-08-17 12:46:51 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-17 12:46:51 --> Helper loaded: url_helper
+INFO - 2021-08-17 12:46:51 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-17 12:46:51 --> Database Driver Class Initialized
+INFO - 2021-08-17 12:46:51 --> Database Driver Class Initialized
+INFO - 2021-08-17 12:46:51 --> Email Class Initialized
+INFO - 2021-08-17 12:46:51 --> Email Class Initialized
+INFO - 2021-08-17 12:46:51 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-17 12:46:51 --> Controller Class Initialized
+INFO - 2021-08-17 12:46:51 --> Model Class Initialized
+INFO - 2021-08-17 12:46:51 --> Model Class Initialized
+INFO - 2021-08-17 12:46:51 --> Model Class Initialized
+INFO - 2021-08-17 12:46:51 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-17 12:46:51 --> Controller Class Initialized
+INFO - 2021-08-17 12:46:51 --> Model Class Initialized
+INFO - 2021-08-17 12:46:51 --> Model Class Initialized
+INFO - 2021-08-17 12:46:51 --> Model Class Initialized
+INFO - 2021-08-17 12:46:51 --> File loaded: C:\xampp\htdocs\allprojects\pavan\manage_expenses\application\views\personal/monthly.php
+INFO - 2021-08-17 12:46:51 --> Final output sent to browser
+DEBUG - 2021-08-17 12:46:51 --> Total execution time: 0.0595
+INFO - 2021-08-17 12:46:51 --> Config Class Initialized
+INFO - 2021-08-17 12:46:51 --> Hooks Class Initialized
+DEBUG - 2021-08-17 12:46:51 --> UTF-8 Support Enabled
+INFO - 2021-08-17 12:46:51 --> Utf8 Class Initialized
+INFO - 2021-08-17 12:46:51 --> URI Class Initialized
+INFO - 2021-08-17 12:46:51 --> Router Class Initialized
+INFO - 2021-08-17 12:46:51 --> Output Class Initialized
+INFO - 2021-08-17 12:46:51 --> Security Class Initialized
+DEBUG - 2021-08-17 12:46:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-17 12:46:51 --> Input Class Initialized
+INFO - 2021-08-17 12:46:51 --> Language Class Initialized
+INFO - 2021-08-17 12:46:51 --> Loader Class Initialized
+INFO - 2021-08-17 12:46:51 --> Helper loaded: url_helper
+INFO - 2021-08-17 12:46:51 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-17 12:46:51 --> Database Driver Class Initialized
+INFO - 2021-08-17 12:46:51 --> Email Class Initialized
+INFO - 2021-08-17 12:46:51 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-17 12:46:51 --> Controller Class Initialized
+INFO - 2021-08-17 12:46:51 --> Model Class Initialized
+INFO - 2021-08-17 12:46:51 --> Model Class Initialized
+INFO - 2021-08-17 12:46:51 --> Model Class Initialized
+DEBUG - 2021-08-17 12:46:51 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-17 12:46:51 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-17 12:46:51 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-17 12:46:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-08-17 12:46:51 --> File loaded: C:\xampp\htdocs\allprojects\pavan\manage_expenses\application\views\personal/monthly_overview.php
+INFO - 2021-08-17 12:46:51 --> Final output sent to browser
+DEBUG - 2021-08-17 12:46:51 --> Total execution time: 0.0660
+INFO - 2021-08-17 12:46:52 --> Config Class Initialized
+INFO - 2021-08-17 12:46:52 --> Hooks Class Initialized
+DEBUG - 2021-08-17 12:46:52 --> UTF-8 Support Enabled
+INFO - 2021-08-17 12:46:52 --> Utf8 Class Initialized
+INFO - 2021-08-17 12:46:52 --> URI Class Initialized
+INFO - 2021-08-17 12:46:52 --> Router Class Initialized
+INFO - 2021-08-17 12:46:52 --> Output Class Initialized
+INFO - 2021-08-17 12:46:52 --> Security Class Initialized
+DEBUG - 2021-08-17 12:46:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-17 12:46:52 --> Input Class Initialized
+INFO - 2021-08-17 12:46:52 --> Language Class Initialized
+INFO - 2021-08-17 12:46:52 --> Loader Class Initialized
+INFO - 2021-08-17 12:46:52 --> Helper loaded: url_helper
+INFO - 2021-08-17 12:46:52 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-17 12:46:52 --> Database Driver Class Initialized
+INFO - 2021-08-17 12:46:52 --> Email Class Initialized
+INFO - 2021-08-17 12:46:52 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-17 12:46:52 --> Controller Class Initialized
+INFO - 2021-08-17 12:46:52 --> Model Class Initialized
+INFO - 2021-08-17 12:46:52 --> Model Class Initialized
+INFO - 2021-08-17 12:46:52 --> Model Class Initialized
+INFO - 2021-08-17 12:46:52 --> File loaded: C:\xampp\htdocs\allprojects\pavan\manage_expenses\application\views\personal/daytoday.php
+INFO - 2021-08-17 12:46:52 --> Final output sent to browser
+DEBUG - 2021-08-17 12:46:52 --> Total execution time: 0.0605
+INFO - 2021-08-17 12:46:52 --> Config Class Initialized
+INFO - 2021-08-17 12:46:52 --> Hooks Class Initialized
+INFO - 2021-08-17 12:46:52 --> Config Class Initialized
+INFO - 2021-08-17 12:46:52 --> Hooks Class Initialized
+DEBUG - 2021-08-17 12:46:52 --> UTF-8 Support Enabled
+DEBUG - 2021-08-17 12:46:52 --> UTF-8 Support Enabled
+INFO - 2021-08-17 12:46:52 --> Utf8 Class Initialized
+INFO - 2021-08-17 12:46:52 --> Utf8 Class Initialized
+INFO - 2021-08-17 12:46:52 --> URI Class Initialized
+INFO - 2021-08-17 12:46:52 --> URI Class Initialized
+INFO - 2021-08-17 12:46:52 --> Router Class Initialized
+INFO - 2021-08-17 12:46:52 --> Router Class Initialized
+INFO - 2021-08-17 12:46:52 --> Output Class Initialized
+INFO - 2021-08-17 12:46:52 --> Output Class Initialized
+INFO - 2021-08-17 12:46:52 --> Security Class Initialized
+INFO - 2021-08-17 12:46:52 --> Security Class Initialized
+DEBUG - 2021-08-17 12:46:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-17 12:46:52 --> Input Class Initialized
+DEBUG - 2021-08-17 12:46:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-17 12:46:52 --> Input Class Initialized
+INFO - 2021-08-17 12:46:52 --> Language Class Initialized
+INFO - 2021-08-17 12:46:52 --> Language Class Initialized
+INFO - 2021-08-17 12:46:52 --> Loader Class Initialized
+INFO - 2021-08-17 12:46:52 --> Loader Class Initialized
+INFO - 2021-08-17 12:46:52 --> Helper loaded: url_helper
+INFO - 2021-08-17 12:46:52 --> Helper loaded: url_helper
+INFO - 2021-08-17 12:46:52 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-17 12:46:52 --> Helper loaded: mylibrary_helper
+INFO - 2021-08-17 12:46:52 --> Database Driver Class Initialized
+INFO - 2021-08-17 12:46:52 --> Database Driver Class Initialized
+INFO - 2021-08-17 12:46:52 --> Email Class Initialized
+INFO - 2021-08-17 12:46:52 --> Email Class Initialized
+INFO - 2021-08-17 12:46:52 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-17 12:46:52 --> Controller Class Initialized
+INFO - 2021-08-17 12:46:52 --> Model Class Initialized
+INFO - 2021-08-17 12:46:52 --> Model Class Initialized
+INFO - 2021-08-17 12:46:52 --> Model Class Initialized
+INFO - 2021-08-17 12:46:52 --> File loaded: C:\xampp\htdocs\allprojects\pavan\manage_expenses\application\views\personal/daytoday_details.php
+INFO - 2021-08-17 12:46:52 --> Final output sent to browser
+DEBUG - 2021-08-17 12:46:52 --> Total execution time: 0.0411
+INFO - 2021-08-17 12:46:52 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-17 12:46:52 --> Controller Class Initialized
+INFO - 2021-08-17 12:46:52 --> Model Class Initialized
+INFO - 2021-08-17 12:46:52 --> Model Class Initialized
+INFO - 2021-08-17 12:46:52 --> Model Class Initialized
+DEBUG - 2021-08-17 12:46:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-17 12:46:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-17 12:46:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-08-17 12:46:52 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-08-17 12:46:52 --> File loaded: C:\xampp\htdocs\allprojects\pavan\manage_expenses\application\views\personal/daytoday_overview.php
+INFO - 2021-08-17 12:46:52 --> Final output sent to browser
+DEBUG - 2021-08-17 12:46:52 --> Total execution time: 0.0524
